@@ -2,7 +2,7 @@
 
 <p align="center"> Hello! My name Evalyn ALviar
  <p align="center"> Pronouns: She/They
-<p align="center"> Currently a student at Seattle Colleges pursuing an Associate's in Application Development
+<p align="center"> Student at Seattle Colleges pursuing an Associate's in Application Development
 
 
 ## <p align="center"> GitHub Stats
