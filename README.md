@@ -6,12 +6,15 @@
 <p align="center"> Plan to major in Information Technology 
 
 ## <p align="center"> Experience 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54")
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## <p align="center"> GitHub Stats
-![LynA2B's GitHub stats](https://github-readme-stats.vercel.app/api?username=LynA2B&show_icons=true&theme=tokyonight) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynA2B&layout=donut&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img img height=200 align="center" src= https://github-readme-stats.vercel.app/api?username=LynA2B&show_icons=true&theme=tokyonight>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src= https://github-readme-stats.vercel.app/api/top-langs/?username=LynA2B&layout=donut&show_icons=true&theme=tokyonight>
+</a>
