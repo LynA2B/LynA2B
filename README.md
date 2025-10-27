@@ -2,10 +2,8 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=LynA2Be&color=blue" alt="Profile views">
 
-
-<p align="center"> Hello! My name Evalyn ALviar
-<p align="center"> Pronouns: She/They
 <p align="center"> Student at Seattle Colleges pursuing an Associate's in Application Development
+<p align="center"> Information Technology major
 
 ## <p align="center"> Experience 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
