@@ -1,7 +1,8 @@
 <img align="center" alt="Coding" width="1000" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJhMTgwM2xnd3RkOHp4ZGFqbDdwM280cDVoeDEzMGNtamNnZW50cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IuVFGSQZTd6TK/giphy.gif">,
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=LynA2Be&color=blue" alt="Profile views">
-
+  
+<p align="center"> Pronouns: She/They
 <p align="center"> Student at Seattle Colleges pursuing an Associate's in Application Development
 <p align="center"> Plan to major in Information Technology 
 
