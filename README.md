@@ -1,6 +1,8 @@
 
+ <img align="center" alt="Coding" width="400" src="https://tenor.com/biHaa.gif">
+ 
 ## <p align="center"> GitHub Stats
-![LynA2B's GitHub stats](https://github-readme-stats.vercel.app/api?username=LynA2B&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynA2B&layout=donut&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![LynA2B's GitHub stats](https://github-readme-stats.vercel.app/api?username=LynA2B&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynA2B&layout=donut&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 <!--
 **LynA2B/LynA2B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
