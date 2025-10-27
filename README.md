@@ -1,6 +1,10 @@
+<img align="center" alt="Coding" width="1000" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJhMTgwM2xnd3RkOHp4ZGFqbDdwM280cDVoeDEzMGNtamNnZW50cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IuVFGSQZTd6TK/giphy.gif">
 
- <img align="center" alt="Coding" width="400" src="https://tenor.com/biHaa.gif">
- 
+<p align="center"> Hello! My name Evalyn ALviar
+ <p align="center"> Pronouns: She/They
+<p align="center"> Currently a student at Seattle Colleges pursuing an Associate's in Application Development
+
+
 ## <p align="center"> GitHub Stats
 ![LynA2B's GitHub stats](https://github-readme-stats.vercel.app/api?username=LynA2B&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynA2B&layout=donut&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 <!--
